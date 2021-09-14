@@ -1,2 +1,3 @@
 Hello GitGat!
 New commit
+need to change message
